@@ -1,6 +1,6 @@
 # Manim Tutorial
 
-> It is recommended to start from ManimCE (render to mp4), and then move on to ManimGL for interactive rendering and more advanced features.
+> It is recommended to start from ManimCE (renders to mp4), and then move on to ManimGL for interactive rendering and more advanced features.
 
 ## Quick Start
 
@@ -40,7 +40,7 @@ $ uv run manim checkhealth
 
 ## Beginner
 
-> [!info]
+> [!IMPORTANT]
 > Don't forget to activate the virtual environment before running examples.
 
 ```
