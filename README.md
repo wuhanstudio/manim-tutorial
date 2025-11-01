@@ -63,9 +63,34 @@ $ manim -pql tutorial_03.py SquareToCircle
 ![](beginner/tutorial_03.gif)
 
 ```
-$ manim -pql tutorial_04.py AnimatedSquareToCircle --format gif
+$ manim -pql tutorial_04.py AnimatedSquareToCircle
 ```
 
 ![](beginner/tutorial_04.gif)
+
+```
+$ manim -pql tutorial_05.py CircleAnnouncement --format gif
+```
+
+![](beginner/tutorial_05.gif)
+
+```
+$ manim -pql tutorial_06.py AnimateSyntax --format gif
+```
+
+![](beginner/tutorial_06.gif)
+
+```
+$ manim -pql tutorial_07.py CauchyIntegralFormula --format gif
+```
+
+![](beginner/tutorial_07.gif)
+
+```
+$ manim -pql tutorial_08.py TransformEquation --format gif
+```
+
+![](beginner/tutorial_08.gif)
+
 
 ## Intermediate
