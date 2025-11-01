@@ -1,3 +1,11 @@
+- [Manim Tutorial](#manim-tutorial)
+  * [Quick Start](#quick-start)
+    + [Step1: Install uv](#step1-install-uv)
+    + [Step 2: Install Manim and Latex](#step-2-install-manim-and-latex)
+    + [Step 3: Check installation](#step-3-check-installation)
+  * [Beginner](#beginner)
+  * [Intermediate](#intermediate)
+
 # Manim Tutorial
 
 > It is recommended to start from ManimCE (renders to mp4), and then move on to ManimGL for interactive rendering and more advanced features.
