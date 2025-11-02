@@ -102,3 +102,34 @@ $ manim -pql tutorial_08.py TransformEquation --format gif
 
 
 ## Intermediate
+
+```
+$ manim -pql tutorial_01.py FormulaEmphasis --format gif
+```
+
+![](intermediate/tutorial_01.gif)
+
+```
+$ manim -pql tutorial_02.py PlotExample --format gif
+```
+
+![](intermediate/tutorial_02.gif)
+
+```
+$ manim -pql tutorial_03.py ErdosRenyiGraph --format gif
+```
+
+![](intermediate/tutorial_03.gif)
+
+```
+$ manim -pql tutorial_04.py CodeFromString --format gif
+```
+
+![](intermediate/tutorial_04.gif)
+
+```
+$ manim -pql tutorial_05.py OpeningManim --format gif
+```
+
+![](intermediate/tutorial_05.gif)
+
